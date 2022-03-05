@@ -8,3 +8,16 @@ body{
   padding: 0;
   margin: 0;
 }
+.image
+{
+  background-color: black;
+  background-image: url('../image/b.jpg');
+  filter: opacity(70%);
+  background-repeat:no-repeat;
+  background-size: auto;
+  min-width: 100%;
+  min-height: 100%;
+  padding: 0;
+  margin: 0;
+  position: absolute;
+}

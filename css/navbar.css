@@ -6,6 +6,21 @@
   font-size: 20px;
   font-style: italic;
   padding: 0;
+  filter: none;
+}
+.media
+{
+  filter: invert();
+  padding: 10px;
+}
+.media:hover
+{
+  filter:none;
+}
+.media>img
+{
+  margin:0;
+  width: 30px;
 }
 .navbar>p
 {

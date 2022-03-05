@@ -1,26 +1,13 @@
 @media only screen and (max-width: 1000px) {
   .body_style
   {
-    background-color: lightgrey;
-    min-width: 100%;
-    height: calc(100%+50px);
-    position: static;
-    display: block;
-    word-wrap: normal;
+    padding: 10px;
   }
   .body_style>.about_me
   {
     padding:10px;
     min-height: 100%;
     display:block;
-  }
-  .body_style>.about_me>p>img
-  {
-    border: 1px solid #323232;
-    border-radius: 4px;
-    padding: 5px;
-    width: 150px;
-    float: center;
   }
   .body_style>.my_story
   {
@@ -29,23 +16,12 @@
     width: 92.5%;
     margin-left: 40px;
   }
-  .body_style>.my_story>ul
-  {
-    padding: 0;
-    margin: 0;
-  }
-  .body_style>.my_story>ul>li>h5
-  {
-    font-style: italic;
-  }
 }
 
 @media only screen and (min-width: 1001px) {
   .body_style
   {
-    background-color: lightgrey;
-    min-width: 100%;
-    position: static;
+    padding: 50px;
   }
   .body_style>.about_me
   {
@@ -53,34 +29,61 @@
     width: 30%;
     min-height: 100%;
   }
-  .body_style>.about_me>p>img
-  {
-    border: 1px solid #323232;
-    border-radius: 4px;
-    padding: 5px;
-    width: 150px;
-  }
   .body_style>.my_story
   {
     position: absolute;
-    right: 0;
-    top: 100px;
+    right: 50px;
+    top: 125px;
     float: right;
-    width: 65%;
+    width: 62.5%;
   }
-  .body_style>.my_story>ul
-  {
-    padding: 0;
-    margin: 0;
-  }
-  .body_style>.my_story>ul>li>h5
-  {
-    font-style: italic;
-  }
+}
+
+.body_style
+{
+  filter: none;
+  min-width: 100%;
+  position: static;
+}
+.body_style>.about_me, .body_style>.my_story
+{
+  padding-left: 20px;
+  padding-right: 20px;
+  filter: blur(0) opacity(100%);
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.7);
+  box-shadow: 0px 0px 30px 0px rgba(66, 68, 90, 1);
+}
+.body_style>.about_me>p>img
+{
+  border: 1px solid #323232;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  margin-bottom: 5px;
+}
+.body_style>.about_me>p>ul
+{
+  text-align: center;
+  list-style-position: inside;
+}
+.body_style>.my_story>ul
+{
+  padding: 0;
+  margin: 0;
+}
+.body_style>.my_story>ul>li
+{
+  list-style-type: none;
+}
+.body_style>.my_story>ul>li>h5
+{
+  font-style: italic;
 }
 .small-info
 {
   font-size: 12px;
   opacity: 75%;
   font-style: italic;
+  padding-bottom: 5px;
 }

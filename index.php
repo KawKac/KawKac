@@ -10,8 +10,14 @@
     <link rel="stylesheet" href="css/master.css">
   </head>
   <body>
+    <div class="image"></div>
         <div class="navbar">
           <p>Kacper Kawala</p>
+          <div class="btn btn-group">
+            <div class="media"><img src="./image/github.svg" alt="GitHub" href="#"></div>
+            <div class="media"><img src="./image/instagram.svg" alt="Instagram" href="#"></div>
+            <div class="media"><img src="./image/linkedin.svg" alt="LinkedIn" href="#"></div> 
+          </div>
           <ul>
             <li>
               <a href="#">
@@ -49,8 +55,6 @@
               <li>Fizyka kwantowa</li>
               <li>Astrofizyka (nie myślić z astrologią)</li>
             </ul>
-            <hr>
-
           </p>
         </div>
         <div class="my_story">
@@ -58,7 +62,7 @@
           <ul>
             <li><h5>Ta strona</h5></li>
             <p>
-              Głównym moim projektem którym się zajmujem jest ta strona aby ją jak najszybciej ukończyć i później się wziąć za ulepszanie jej (aby zobaczyć kod źródłowy wystarczy kliknąć w ten <a href="https://github.com/KawKac/KacKaw" class="text-primary">link</a>)<br>
+              Głównym moim projektem którym się zajmujem jest ta strona aby ją jak najszybciej ukończyć i później się wziąć za ulepszanie jej (aby zobaczyć kod źródłowy wystarczy kliknąć w ten <a href="https://github.com/KawKac/KawKac.git" class="text-primary">link</a>)<br>
               <p class="small-info">Wykorzystane języki: HTML, CSS, Bootstrap</p>
             </p>
             <li><h5>Gra w kości</h5></li>

@@ -2,23 +2,9 @@
   footer
   {
     height: 525px;
-    background-color: #323232;
-    color: white;
-  }
-  footer>.contact_left
-  {
-    width: 501px;
-    float: left;
-    margin-left: 2%;
-    margin-bottom: 20px;
-    display: block;
-    background-color: #323232;
   }
   footer>.contact_right
   {
-    background-color: #323232;
-    text-align: left;
-    display: block;
     float: left;
     margin-left: 2%;
   }
@@ -28,28 +14,34 @@
   footer
   {
     height: 380px;
-    background-color: #323232;
-    color: white;
-  }
-  footer>.contact_left
-  {
-    width: 501px;
-    float: left;
-    margin-left: 2%;
-    margin-bottom: 20px;
-    display: block;
-    background-color: #323232;
   }
   footer>.contact_right
   {
-    background-color: #323232;
-    text-align: right;
-    display: block;
     float: right;
     margin-right: 2%;
   }
 }
-
+footer
+{
+  filter: blur(0) opacity(100%);
+  background-color: #323232;
+  color: white;
+}
+footer>.contact_left
+{
+  width: 501px;
+  float: left;
+  margin-left: 2%;
+  margin-bottom: 20px;
+  display: block;
+  background-color: #323232;
+}
+footer>.contact_right
+{
+  background-color: #323232;
+  text-align: right;
+  display: block;
+}
 footer>p
 {
   margin-top: 4px;

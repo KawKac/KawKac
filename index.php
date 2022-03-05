@@ -84,8 +84,8 @@
           </ul>
         </div>
       </div>
-
-      <footer>
+      <a href="#footer">footer</a>
+      <footer id="footer">
         <div class="contact_left">
           <form class="contact_form" action="index.html" method="post">
             <h1>Formularz kontaktowy</h1><br>

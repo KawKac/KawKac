@@ -10,6 +10,7 @@ body{
 }
 .image
 {
+  background-attachment: fixed;
   background-color: black;
   background-image: url('../image/b.jpg');
   filter: opacity(70%);
@@ -19,5 +20,5 @@ body{
   min-height: 100%;
   padding: 0;
   margin: 0;
-  position: absolute;
+  position: fixed;
 }

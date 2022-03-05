@@ -14,14 +14,15 @@
 }
 .media>img
 {
+  transition: all .4s ease;
   filter: invert();
   margin:0;
   width: 30px;
 }
 .media>img:hover
 {
-  background-color: ;
-  border-radius: 2px;
+  transition: all .4s ease;
+  filter:none;
 }
 .navbar>p
 {

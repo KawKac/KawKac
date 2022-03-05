@@ -11,10 +11,10 @@
   }
   .body_style>.my_story
   {
+    margin-top: 10px;
     display:block;
     top: 100px;
-    width: 92.5%;
-    margin-left: 40px;
+    width: 100%;
   }
 }
 

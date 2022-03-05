@@ -13,6 +13,7 @@
 @media only screen and (min-width: 884px) {
   footer
   {
+    display: none;
     height: 380px;
   }
   footer>.contact_right
@@ -39,7 +40,6 @@ footer>.contact_left
 footer>.contact_right
 {
   background-color: #323232;
-  text-align: right;
   display: block;
 }
 footer>p

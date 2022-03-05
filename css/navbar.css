@@ -10,17 +10,18 @@
 }
 .media
 {
-  filter: invert();
   padding: 10px;
-}
-.media:hover
-{
-  filter:none;
 }
 .media>img
 {
+  filter: invert();
   margin:0;
   width: 30px;
+}
+.media>img:hover
+{
+  background-color: ;
+  border-radius: 2px;
 }
 .navbar>p
 {

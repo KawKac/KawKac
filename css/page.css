@@ -62,15 +62,24 @@
   width: 150px;
   margin-bottom: 5px;
 }
-.body_style>.about_me>p>ul
+.body_style>.about_me>p>.about_me-list>ul
 {
   text-align: center;
   list-style-position: inside;
+}
+.body_style>.about_me>.about_me-list
+{
+  text-align: left;
 }
 .body_style>.my_story>ul
 {
   padding: 0;
   margin: 0;
+}
+.body_style>.my_story>ul>p
+{
+  display: inline-block;
+  text-align: left;
 }
 .body_style>.my_story>ul>li
 {
@@ -82,6 +91,9 @@
 }
 .small-info
 {
+  text-align: right;
+  display: inline-block;
+  width: 100%;
   font-size: 12px;
   opacity: 75%;
   font-style: italic;

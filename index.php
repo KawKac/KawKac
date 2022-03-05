@@ -16,7 +16,7 @@
           <div class="btn btn-group">
             <div class="media"><img src="./image/github.svg" alt="GitHub" href="#"></div>
             <div class="media"><img src="./image/instagram.svg" alt="Instagram" href="#"></div>
-            <div class="media"><img src="./image/linkedin.svg" alt="LinkedIn" href="#"></div> 
+            <div class="media"><img src="./image/linkedin.svg" alt="LinkedIn" href="#"></div>
           </div>
           <ul>
             <li>
@@ -37,24 +37,30 @@
           <p>
             <img src="image/zdj.jpg" alt="Moje zdjęcie"><br>
             Jestem pooczątkującym programistą. Aktualnie studiuję informatykę na Uniwersytecie Śląskim. Aktualnymi językami jakimi się interesuję to:
-            <ul>
-              <li>Java</li>
-              <li>C++</li>
-            </ul>
+            <div class="about_me-list">
+              <ul>
+                <li>Java</li>
+                <li>C++</li>
+              </ul>
+            </div>
             Dodatkowo znam jeszcze podstawę języków programowania aplikacji internetowych takich jak:
-            <ul>
-              <li>HTML5</li>
-              <li>CSS</li>
-              <li>PHP</li>
-              <li>JavaScript</li>
-            </ul>
+            <div class="about_me-list">
+              <ul>
+                <li>HTML5</li>
+                <li>CSS</li>
+                <li>PHP</li>
+                <li>JavaScript</li>
+              </ul>
+            </div>
             <hr>
             Oprócz programowania interesuję się również sprzętem komputerowym. Staram się być w miarę na bierząco z nowinkami technologicznymi.
             Dodatkowo cztytam książki na temat fizyki. Moimi ulubionymi działami z fizyki są:
-            <ul>
-              <li>Fizyka kwantowa</li>
-              <li>Astrofizyka (nie myślić z astrologią)</li>
-            </ul>
+            <div class="about_me-list">
+              <ul>
+                <li>Fizyka kwantowa</li>
+                <li>Astrofizyka (nie myślić z astrologią)</li>
+              </ul>
+            </div>
           </p>
         </div>
         <div class="my_story">
@@ -63,17 +69,17 @@
             <li><h5>Ta strona</h5></li>
             <p>
               Głównym moim projektem którym się zajmujem jest ta strona aby ją jak najszybciej ukończyć i później się wziąć za ulepszanie jej (aby zobaczyć kod źródłowy wystarczy kliknąć w ten <a href="https://github.com/KawKac/KawKac.git" class="text-primary">link</a>)<br>
-              <p class="small-info">Wykorzystane języki: HTML, CSS, Bootstrap</p>
+              <div class="small-info">Wykorzystane języki: HTML, CSS, Bootstrap</div>
             </p>
             <li><h5>Gra w kości</h5></li>
             <p>
               Prosty program, który polega na wylosowaniu cyfry od 1-6. Aby wygrać należy odgadnąć cyfrę. Co zgadywanie losowana jest nowa cyfra. Program zawiera zarówno grę solo jak i również multiplayer. Do sprawdzania działania programu wykorzystano bota (PC vs. PC)(aby zobaczyć kod źródłowy wystarczy kliknąć w ten <a href="https://github.com/KawKac/Dice" class="text-primary">link</a>).<br>
-              <p class="small-info">Wykorzystane języki: Java</p>
+              <div class="small-info">Wykorzystane języki: Java</div>
             </p>
             <li><h5>Strona na obronę inżyniera</h5></li>
             <p>
               Jest to moja praca technika, którą broniłem pod koniec mojego technikum. Jest na temat nowych znaczników HTML, które pojawiły się w HTML5.(aby zobaczyć kod źródłowy wystarczy kliknąć w ten <a href="https://github.com/KawKac/praca_technika" class="text-primary">link</a>).<br>
-              <p class="small-info">Wykorzystane języki: HTML, CSS, JavaScript z biblioteką JQuery</p>
+              <div class="small-info">Wykorzystane języki: HTML, CSS, JavaScript z biblioteką JQuery</div>
             </p>
           </ul>
         </div>

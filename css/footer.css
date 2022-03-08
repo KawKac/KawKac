@@ -13,7 +13,7 @@
 @media only screen and (min-width: 884px) {
   footer
   {
-    display: none;
+    /*display: none;*/
     height: 380px;
   }
   footer>.contact_right

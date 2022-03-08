@@ -14,9 +14,9 @@
         <div class="navbar">
           <p>Kacper Kawala</p>
           <div class="btn btn-group">
-            <div class="media"><img src="./image/github.svg" alt="GitHub" href="https://github.com/KawKac"></div>
-            <div class="media"><img src="./image/instagram.svg" alt="Instagram" href="https://www.instagram.com/lankutheofficial/"></div>
-            <div class="media"><img src="./image/linkedin.svg" alt="LinkedIn" href="https://www.linkedin.com/in/kacper-kawala-1b921a22b/"></div>
+            <a href="https://github.com/KawKac" class="media" target="_blank"> <img src="./image/github.svg" alt="GitHub" > </a>
+            <a href="https://www.instagram.com/lankutheofficial/" class="media" target="_blank"> <img src="./image/instagram.svg" alt="Instagram" > </a>
+            <a href="https://www.linkedin.com/in/kacper-kawala-1b921a22b/" class="media" target="_blank"> <img src="./image/linkedin.svg" alt="LinkedIn" > </a>
           </div>
           <ul>
             <li>

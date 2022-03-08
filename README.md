@@ -1,2 +1,2 @@
-Hi!
-This is my own page about me.
+Hello there! <br>
+Welcome on my profile.

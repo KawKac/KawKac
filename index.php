@@ -37,7 +37,7 @@
 
         switch($lang)
         {
-           case 'PL':
+           case 'pl':
               include("PL.php");
               break;
 

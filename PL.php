@@ -3,21 +3,15 @@
           <p>
             <img src="image/zdj.jpg" alt="Moje zdjęcie"><br>
             Jestem pooczątkującym programistą. Aktualnie studiuję informatykę na Uniwersytecie Śląskim. Aktualnymi językami jakimi się interesuję to:
-            <div class="about_me-list">
-              <ul>
-                <li>Java</li>
-                <li>C++</li>
-              </ul>
-            </div>
+              <img src="./image/java.svg" alt="Java" class="icon-list">
+              <img src="./image/cpp.svg" alt="C++" class="icon-list">
             Dodatkowo znam jeszcze podstawę języków programowania aplikacji internetowych takich jak:
-            <div class="about_me-list">
-              <ul>
-                <li>HTML5</li>
-                <li>CSS</li>
-                <li>PHP</li>
-                <li>JavaScript</li>
-              </ul>
-            </div>
+              <img src="./image/html5.svg" alt="HTML" class="icon-list">
+              <img src="./image/css3.svg" alt="CSS" class="icon-list">
+              <img src="./image/js.svg" alt="JavaScript" class="icon-list">
+              <img src="./image/php.svg" alt="PHP" class="icon-list">
+            Podczas programowania stron internetowych poznałem dodatkowo <br>
+              <img src="./image/bootstrap.svg" alt="Bootstrap" class="icon-list">
             <hr>
             Oprócz programowania interesuję się również sprzętem komputerowym. Staram się być w miarę na bierząco z nowinkami technologicznymi.
             Dodatkowo cztytam książki na temat fizyki. Moimi ulubionymi działami z fizyki są:

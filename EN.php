@@ -5,18 +5,17 @@
       I'm starting my adventure with programming. I study IT on Universyty of Silesia. I prefered this language:
       <div class="about_me-list">
         <ul>
-          <li>Java</li>
-          <li>C++</li>
+          <li> <img src="./image/java.svg" alt="Java" class="icon-list"> </li>
+          <li> <img src="./image/cpp.svg" alt="C++" class="icon-list"> </li>
         </ul>
       </div>
-      I known 
-      Dodatkowo znam jeszcze podstawę języków programowania aplikacji internetowych takich jak:
+      I known some laguange to creat WebSites, like:
       <div class="about_me-list">
         <ul>
-          <li>HTML5</li>
-          <li>CSS</li>
-          <li>PHP</li>
-          <li>JavaScript</li>
+          <li> <img src="./image/html5.svg" alt="HTML" class="icon-list"> </li>
+          <li> <img src="./image/css3.svg" alt="CSS" class="icon-list"> </li>
+          <li> <img src="./image/js.svg" alt="JavaScript" class="icon-list"> </li>
+          <li> <img src="./image/php.svg" alt="PHP" class="icon-list"> </li>
         </ul>
       </div>
       <hr>

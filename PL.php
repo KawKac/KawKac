@@ -2,14 +2,16 @@
         <div class="about_me">
           <p>
             <img src="image/zdj.jpg" alt="Moje zdjęcie"><br>
-            Jestem pooczątkującym programistą. Aktualnie studiuję informatykę na Uniwersytecie Śląskim. Aktualnymi językami jakimi się interesuję to:
+            Jestem pooczątkującym programistą. Aktualnie studiuję informatykę na Uniwersytecie Śląskim. Aktualnymi językami jakimi się interesuję to:<br>
               <img src="./image/java.svg" alt="Java" class="icon-list">
               <img src="./image/cpp.svg" alt="C++" class="icon-list">
-            Dodatkowo znam jeszcze podstawę języków programowania aplikacji internetowych takich jak:
+              <br>
+            Dodatkowo znam jeszcze podstawę języków programowania aplikacji internetowych takich jak:<br>
               <img src="./image/html5.svg" alt="HTML" class="icon-list">
               <img src="./image/css3.svg" alt="CSS" class="icon-list">
               <img src="./image/js.svg" alt="JavaScript" class="icon-list">
               <img src="./image/php.svg" alt="PHP" class="icon-list">
+              <br>
             Podczas programowania stron internetowych poznałem dodatkowo <br>
               <img src="./image/bootstrap.svg" alt="Bootstrap" class="icon-list">
             <hr>

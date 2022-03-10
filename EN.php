@@ -3,30 +3,20 @@
     <p>
       <img src="image/zdj.jpg" alt="Moje zdjęcie"><br>
       I'm starting my adventure with programming. I study IT on Universyty of Silesia. I prefered this language:
-      <div class="about_me-list">
-        <ul>
-          <li> <img src="./image/java.svg" alt="Java" class="icon-list"> </li>
-          <li> <img src="./image/cpp.svg" alt="C++" class="icon-list"> </li>
-        </ul>
-      </div>
+      <br>
+        <img src="./image/java.svg" alt="Java" class="icon-list">
+        <img src="./image/cpp.svg" alt="C++" class="icon-list">
+      <br>
       I known some laguange to creat WebSites, like:
-      <div class="about_me-list">
-        <ul>
-          <li> <img src="./image/html5.svg" alt="HTML" class="icon-list"> </li>
-          <li> <img src="./image/css3.svg" alt="CSS" class="icon-list"> </li>
-          <li> <img src="./image/js.svg" alt="JavaScript" class="icon-list"> </li>
-          <li> <img src="./image/php.svg" alt="PHP" class="icon-list"> </li>
-        </ul>
-      </div>
+      <br>
+        <img src="./image/html5.svg" alt="HTML" class="icon-list">
+        <img src="./image/css3.svg" alt="CSS" class="icon-list">
+        <img src="./image/js.svg" alt="JavaScript" class="icon-list">
+        <img src="./image/php.svg" alt="PHP" class="icon-list">
+      <br>
       <hr>
-      Oprócz programowania interesuję się również sprzętem komputerowym. Staram się być w miarę na bierząco z nowinkami technologicznymi.
-      Dodatkowo cztytam książki na temat fizyki. Moimi ulubionymi działami z fizyki są:
-      <div class="about_me-list">
-        <ul>
-          <li>Fizyka kwantowa</li>
-          <li>Astrofizyka (nie myślić z astrologią)</li>
-        </ul>
-      </div>
+      Programming is not my only single hobby. I read about new technology connected with IT. I tried be up to data with new computer components.
+      Apart from IT I love physics, read about new discovered in space or in quantum state.
     </p>
   </div>
   <div class="my_story">

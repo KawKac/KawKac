@@ -20,8 +20,18 @@
     </p>
   </div>
   <div class="my_story">
-    <h1>Projekty:</h1>
+    <h1>My projects:</h1><br>
     <ul>
+      <li><h5>WoTReservClan</h5></li>
+      <p>
+        Aplikacja do puszczania rezerw osobistych w grze World of Tanks. Pomysł powstał po tym, jak odkryłem, że Wargaming udastępnił pełne API, które można wykorzystać. Kod źródłowy znajduje się pod <a href="https://github.com/KawKac/WoTReservClan" class="text-primary">linkiem</a><br>
+        <div class="small-info">Wykorzystane języki: Kotlin, Groovy</div>
+      </p>
+      <li><h5>Aplikacja do nauki Kotlina</h5></li>
+      <p>
+        Projekt, gdzie pod okiem seniora, uczę się programować w języku Kotlin oraz Groovy. Kod źródłowy można przejrzeć pod <a href="https://github.com/lipov1991/ProductInventory" class="text-primary">linkiem</a>. Aplikacja jest wciąż aktualizowana, ze względów rozwijania swoich umiejętności programistycznych.<br>
+        <div class="small-info">Wykorzystane języki: Kotlin, Groovy</div>
+      </p>
       <li><h5>Ta strona</h5></li>
       <p>
         Głównym moim projektem którym się zajmujem jest ta strona aby ją jak najszybciej ukończyć i później się wziąć za ulepszanie jej (aby zobaczyć kod źródłowy wystarczy kliknąć w ten <a href="https://github.com/KawKac/KawKac.git" class="text-primary">link</a>)<br>
